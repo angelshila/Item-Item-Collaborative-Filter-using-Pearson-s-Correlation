@@ -1,0 +1,17 @@
+python3.4 reco.py ratings-dataset.tsv Kluver 3 3
+Dances with Wolves 4.33049
+Schindler's List 4.28748
+Braveheart 4.27279
+
+python3.4 reco.py ratings-dataset.tsv "hi mom" 2 10
+output :
+Fight Club 4.28336
+X2: X-Men United 4.25
+Minority Report 4.2407
+E.T. the Extra-Terrestrial 4.07295
+Ace Ventura: Pet Detective 4.0
+Almost Famous 4.0
+Beauty and the Beast 4.0
+Clear and Present Danger 4.0
+Dances with Wolves 4.0
+Kill Bill: Vol. 2 4.0
